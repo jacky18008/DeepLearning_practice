@@ -1,1 +1,1 @@
-A self practice of DeepLearning.
+這是目前由政大四名學生進行中的日星鑄字行字體銅模修復計畫，一些相關的進度都會放在這裡。
